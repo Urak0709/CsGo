@@ -1,0 +1,11 @@
+body {
+    background: url('../img/bg4.png') no-repeat center top/cover #000;
+}
+
+.item__title {
+    font-size: 24px;
+}
+
+.item__text {
+    font-size: 24px;
+}
